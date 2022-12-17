@@ -1,5 +1,5 @@
 # Shopping-list-app
-Simple shopping list application based on JavaScript.
+Simple shopping (to do) list application based on JavaScript.
 
 # Try me!
 
