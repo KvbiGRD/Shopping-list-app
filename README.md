@@ -3,7 +3,7 @@ Simple shopping (to do) list application based on JavaScript.
 
 # Try me!
 
-https://kvbidsg.github.io/Shopping-list-app/
+https://kvbigrd.github.io/Shopping-list-app/
 
 # Preview:
 
